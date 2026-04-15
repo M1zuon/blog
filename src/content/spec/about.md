@@ -1,38 +1,30 @@
-# 关于我 / About Me
+# [水鏡涼音@m1zuon ~]$ whoami
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
-
-## 🛠️ 关于本站
-
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
-
-
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
-
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
-
-## 📫 联系方式
-
-如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
-
-- 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
-- ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
-- 🐧 **QQ交流群：[1087127207](https://qm.qq.com/q/ZGsFa8qX2G)**
+> **一名在 0 与 1 之间漫游的高中牲。**
+> 
+> 目前正以“初心者”的身份，探索网络架构与自建服务的深邃世界。
 
 ---
 
-*感谢你的来访！希望在这里能找到对你有用的内容！*
+### 💻 运行系统 (System Overview)
 
+- **身份定位**：高中生 / 数字化游民 / 技术爱好者
+- **核心关注**：网络工程、系统运维、信息安全
+- **生活侧写**：在终端中寻找表达方式
+
+### 🛰️ 探索领域 (Interests)
+
+- **Networking**: 协议的艺术与组网的乐趣。
+- **Self-hosting**: 构建属于自己的数字乌托邦。
+- **Privacy**: 极度重视隐私、加密与签名验证。
+
+### 🔑 身份验证 (Identity)
+
+- **GPG Fingerprint**: `1C8653C0CC94A8EBCC30CFDC74A17B49CA5863B8`
+
+---
+
+### 📡 联络终端 (Connection)
+
+```bash
+$mail -s "Hello" admin@mizuon.com $ echo "Stay hungry, stay foolish."
