@@ -277,11 +277,5 @@ export default defineConfig({
       },
 	},
 
-  adapter: cloudflare({
-    platformProxy: {
-      enabled: true,
-    },
-    // 强制在构建阶段支持 Node 模块
-    runtime: { mode: 'compatibility', type: 'pages' }, 
-  }),
+  adapter: cloudflare(),
 });
