@@ -19,7 +19,7 @@ interface FontOptions {
 	style?: FontStyle;
 	lang?: string;
 }
-export const prerender = true;
+export const prerender = false;
 
 export const getStaticPaths: GetStaticPaths = async () => {
 	if (!siteConfig.generateOgImages) {
